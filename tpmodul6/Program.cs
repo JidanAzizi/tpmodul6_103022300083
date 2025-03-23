@@ -2,7 +2,7 @@
 using tpmodul6;
 
 class Program {
-    static void Main() {
+    static void Main(   ) {
         SayaTubeVideo video = new SayaTubeVideo("Tutorial by Jidan - Maulana Jidan Azizi");
         video.PrintVideoDetails();
 
